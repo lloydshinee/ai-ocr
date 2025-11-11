@@ -1,6 +1,6 @@
 # AI-Powered OCR for Time Cards
 
-This project uses Google's `gemini-2.5-flash` model to perform Optical Character Recognition (OCR) on time card images and extract employee information and attendance records in a structured JSON format.
+This project uses Google's `gemini-1.5-flash` model to perform Optical Character Recognition (OCR) on time card images and extract employee information and attendance records in a structured JSON format.
 
 ## How It Works
 
@@ -14,16 +14,41 @@ The Python script (`main.py`) manages the OCR process by:
     - `attendance_records` (date, in/out times)
 5.  **Saving Results:** The extracted JSON data for each image is then appended to a corresponding text file (e.g., `normal.txt`).
 
-## Usage
+## Setup
 
-1.  **Set up your environment:**
-    - Create a `.env` file and add your Gemini API key:
+1.  **Create and activate a virtual environment:**
+
+    - **For macOS/Linux:**
+
+      ```bash
+      python3 -m venv .venv
+      source .venv/bin/activate
+      ```
+
+    - **For Windows:**
+      ```bash
+      python -m venv .venv
+      .venv\Scripts\activate
+      ```
+
+2.  **Install the required packages:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Set up your environment variables:**
+    - Create a `.env` file by copying the example file:
+    - Open the `.env` file and add your Gemini API key:
       ```
       GEMINI_API_KEY="YOUR_API_KEY"
       ```
-2.  **Place your time card images** in the appropriate folder (`crumpled/`, `folded/`, or `normal/`).
 
-3.  **Update the `timesheets_folder` and `output_file` variables** in `main.py` to point to the correct folder and desired output file.
+## How to Run
+
+1.  **Place your time card images** in the appropriate folder (`crumpled/`, `folded/`, or `normal/`).
+
+2.  **Update the `timesheets_folder` and `output_file` variables** in `main.py` to point to the correct folder and desired output file.
 
     For example, to process images in the `folded/` directory:
 
@@ -32,7 +57,7 @@ The Python script (`main.py`) manages the OCR process by:
     output_file = "folded.txt"
     ```
 
-4.  **Run the script:**
+3.  **Run the script:**
     ```bash
     python main.py
     ```
@@ -65,46 +90,4 @@ Example output for a single image:
     }
   ]
 }
-```
-
-## Prompt
-
-The following prompt is used in `main.py` to instruct the model.
-
-```python
-prompt = """
-You are an OCR and data extraction assistant.
-
-Extract information from the provided image of a time card or attendance record.
-Return the output strictly in valid JSON format with the following structure:
-
-{
-  "employee_information": {
-    "employee_number": "",
-    "name": "",
-    "department": "",
-    "payroll_type": "",
-    "period": ""
-  },
-  "attendance_records": [
-    {
-      "date": "",
-      "morning_in": "",
-      "morning_out": "",
-      "afternoon_in": "",
-      "afternoon_out": "",
-      "overtime_in": "",
-      "overtime_out": ""
-    }
-  ]
-}
-
-Rules:
-- Do NOT include any entries that have completely empty time fields.
-- In and Out values must valid format HH:MM format (24-hour clock).
-- Keep JSON clean and properly formatted (no markdown, no explanations).
-- Preserve exact text values from the image.
-- All missing values should be empty strings.
-- Output must be valid JSON only.
-"""
 ```
