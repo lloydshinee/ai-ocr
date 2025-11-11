@@ -1,0 +1,191 @@
+### 292d6bcc-06b5-4b23-9bc6-e625b243610c.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "22",
+    "name": "LUMANTA, REMA",
+    "department": "CBA",
+    "payroll_type": "HOURLY",
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "1:00",
+      "time_out_pm": "5:30"
+    },
+    {
+      "date": "4",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "5:30",
+      "time_out_pm": "8:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "3:00",
+      "time_out_pm": "8:00"
+    }
+  ]
+}
+
+### 12c35ac8-2d6d-4857-a55b-d4e31e34ce1f.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "25",
+    "name": "MALUYA, MELODY",
+    "department": "CCS",
+    "payroll_type": "HOURLY",
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:20",
+      "time_out_am": "12:00",
+      "time_in_pm": "13:01",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "09:30",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:35"
+    },
+    {
+      "date": "6",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "12:48",
+      "time_out_pm": "17:19"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:28",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:48"
+    }
+  ]
+}
+
+### be88f99f-810e-4c83-8acd-3d993b528b7e.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "18",
+    "name": "GALIBO, JOEL",
+    "department": "GS",
+    "payroll_type": "HOURLY",
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "5:30",
+      "time_out_pm": "8:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "9:30",
+      "time_out_pm": "7:30"
+    },
+    {
+      "date": "6",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "3:00",
+      "time_out_pm": "8:00"
+    }
+  ]
+}
+
+### e0e5ca3e-20cf-4ca8-b489-67e6726f702c.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "24",
+    "name": "MALIK, SAHAWI",
+    "department": "CCS",
+    "payroll_type": "HOURLY",
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:20",
+      "time_out_am": "13:00",
+      "time_in_pm": "13:01",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "09:30",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:35"
+    },
+    {
+      "date": "6",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "12:48",
+      "time_out_pm": "17:19"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:28",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:48"
+    }
+  ]
+}
+
+### be8ffbfd-ffe2-4377-a4a5-c34d45f5f01e.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "19",
+    "name": "GENOVIA, CHARMAYNE",
+    "department": "CCS",
+    "payroll_type": "HOURLY",
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:21",
+      "time_out_am": "13:00",
+      "time_in_pm": "13:01",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "09:30",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:35"
+    },
+    {
+      "date": "6",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "12:48",
+      "time_out_pm": "17:19"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:28",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:41"
+    }
+  ]
+}
+

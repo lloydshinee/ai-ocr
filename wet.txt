@@ -1,0 +1,261 @@
+### f06fa549-eed5-4f12-8610-f6a02357a548.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "6",
+    "name": "AMBILAO, SALAMINA",
+    "department": "CAS",
+    "payroll_type": "MONTHLY",
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "11:39",
+      "time_out_am": "12:43",
+      "time_in_pm": "12:44",
+      "time_out_pm": "18:01"
+    },
+    {
+      "date": "5",
+      "time_in_am": "07:45",
+      "time_out_am": "12:39",
+      "time_in_pm": "12:40",
+      "time_out_pm": "17:40"
+    },
+    {
+      "date": "6",
+      "time_in_am": "07:50",
+      "time_out_am": "12:48",
+      "time_in_pm": "12:49",
+      "time_out_pm": "19:16"
+    },
+    {
+      "date": "7",
+      "time_in_am": "07:51",
+      "time_out_am": "12:45",
+      "time_in_pm": "12:46",
+      "time_out_pm": "17:34"
+    },
+    {
+      "date": "8",
+      "time_in_am": "07:51",
+      "time_out_am": "12:37",
+      "time_in_pm": "",
+      "time_out_pm": ""
+    },
+    {
+      "date": "10",
+      "time_in_am": "07:40",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": ""
+    }
+  ]
+}
+
+### 0ae16bbd-081a-486a-9ce0-e881b988daab.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "22",
+    "name": "CAPE, MEL",
+    "department": "CED",
+    "payroll_type": "MONTHLY",
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:05",
+      "time_out_am": "13:01",
+      "time_in_pm": "13:02",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "08:27",
+      "time_out_am": "12:34",
+      "time_in_pm": "12:36",
+      "time_out_pm": "17:37"
+    },
+    {
+      "date": "6",
+      "time_in_am": "08:19",
+      "time_out_am": "12:49",
+      "time_in_pm": "12:50",
+      "time_out_pm": "17:24"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:26",
+      "time_out_am": "12:21",
+      "time_in_pm": "12:23",
+      "time_out_pm": "17:33"
+    },
+    {
+      "date": "8",
+      "time_in_am": "10:06",
+      "time_out_am": "12:23",
+      "time_in_pm": "",
+      "time_out_pm": ""
+    },
+    {
+      "date": "9",
+      "time_in_am": "08:29",
+      "time_out_am": "12:36",
+      "time_in_pm": "12:37",
+      "time_out_pm": ""
+    }
+  ]
+}
+
+### 86ce0261-c256-4a9f-bcec-9d8b5160aaea.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "38",
+    "name": "HERRERA, TISHA",
+    "department": "CAS",
+    "payroll_type": "MONTHLY",
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:21",
+      "time_out_am": "13:00",
+      "time_in_pm": "13:01",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "09:30",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:35"
+    },
+    {
+      "date": "6",
+      "time_in_am": "",
+      "time_out_am": "",
+      "time_in_pm": "12:48",
+      "time_out_pm": "17:19"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:28",
+      "time_out_am": "",
+      "time_in_pm": "",
+      "time_out_pm": "17:49"
+    }
+  ]
+}
+
+### 27382052-c327-411e-9d9d-5d9a9fe18dee.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "20",
+    "name": "CALO, ROWENA",
+    "department": "CED",
+    "payroll_type": "MONTHLY",
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:05",
+      "time_out_am": "13:01",
+      "time_in_pm": "13:02",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "08:27",
+      "time_out_am": "12:34",
+      "time_in_pm": "12:35",
+      "time_out_pm": "17:36"
+    },
+    {
+      "date": "6",
+      "time_in_am": "08:19",
+      "time_out_am": "12:49",
+      "time_in_pm": "17:22",
+      "time_out_pm": "17:23"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:26",
+      "time_out_am": "12:21",
+      "time_in_pm": "12:23",
+      "time_out_pm": "17:33"
+    },
+    {
+      "date": "8",
+      "time_in_am": "10:06",
+      "time_out_am": "12:23",
+      "time_in_pm": "",
+      "time_out_pm": ""
+    },
+    {
+      "date": "9",
+      "time_in_am": "08:28",
+      "time_out_am": "12:36",
+      "time_in_pm": "12:38",
+      "time_out_pm": "16:28"
+    }
+  ]
+}
+
+### a33950e5-0016-4956-813c-1a79ed35b994.jpeg ###
+{
+  "employee_information": {
+    "employee_number": "22",
+    "name": "LUMANTA, REMA",
+    "department": "CBA",
+    "payroll_type": "HOURLY",
+    "period": "FOR THE MONTH OF OCT. 11-25, 2023 AND OCT. 26-NOV. 10, 2023"
+  },
+  "attendance_records": [
+    {
+      "date": "3",
+      "time_in_am": "08:06",
+      "time_out_am": "13:01",
+      "time_in_pm": "13:02",
+      "time_out_pm": "17:30"
+    },
+    {
+      "date": "5",
+      "time_in_am": "08:26",
+      "time_out_am": "12:34",
+      "time_in_pm": "12:35",
+      "time_out_pm": "17:36"
+    },
+    {
+      "date": "6",
+      "time_in_am": "08:18",
+      "time_out_am": "12:49",
+      "time_in_pm": "12:50",
+      "time_out_pm": "17:24"
+    },
+    {
+      "date": "7",
+      "time_in_am": "11:26",
+      "time_out_am": "12:21",
+      "time_in_pm": "12:23",
+      "time_out_pm": "17:33"
+    },
+    {
+      "date": "8",
+      "time_in_am": "10:06",
+      "time_out_am": "12:23",
+      "time_in_pm": "",
+      "time_out_pm": ""
+    },
+    {
+      "date": "9",
+      "time_in_am": "08:29",
+      "time_out_am": "12:36",
+      "time_in_pm": "12:37",
+      "time_out_pm": "16:28"
+    }
+  ]
+}
+
