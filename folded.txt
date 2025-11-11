@@ -10,17 +10,21 @@
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "07:45",
-      "time_out_am": "13:00",
-      "time_in_pm": "13:02",
-      "time_out_pm": "18:00"
+      "morning_in": "07:45",
+      "morning_out": "13:00",
+      "afternoon_in": "13:02",
+      "afternoon_out": "18:00",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "",
-      "time_out_am": "12:47",
-      "time_in_pm": "12:48",
-      "time_out_pm": ""
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "12:47",
+      "afternoon_out": "12:48",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -37,45 +41,57 @@
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "807:34",
-      "time_out_am": "12:43",
-      "time_in_pm": "12:44",
-      "time_out_pm": "18:01"
+      "morning_in": "08:39",
+      "morning_out": "12:43",
+      "afternoon_in": "12:44",
+      "afternoon_out": "18:01",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "807:45",
-      "time_out_am": "12:39",
-      "time_in_pm": "12:41",
-      "time_out_pm": "817:40"
+      "morning_in": "07:45",
+      "morning_out": "12:39",
+      "afternoon_in": "12:41",
+      "afternoon_out": "17:40",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "807:50",
-      "time_out_am": "12:48",
-      "time_in_pm": "12:49",
-      "time_out_pm": "819:16"
+      "morning_in": "08:50",
+      "morning_out": "12:48",
+      "afternoon_in": "12:49",
+      "afternoon_out": "19:16",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "807:51",
-      "time_out_am": "12:45",
-      "time_in_pm": "12:46",
-      "time_out_pm": "817:35"
+      "morning_in": "08:51",
+      "morning_out": "12:45",
+      "afternoon_in": "12:46",
+      "afternoon_out": "17:35",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "8",
-      "time_in_am": "807:50",
-      "time_out_am": "12:36",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "08:50",
+      "morning_out": "12:36",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "10",
-      "time_in_am": "807:40",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "08:40",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -87,50 +103,62 @@
     "name": "CABATOS, ROMILYN",
     "department": "COE",
     "payroll_type": "MONTHLY",
-    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
   },
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "07:30",
-      "time_out_am": "12:43",
-      "time_in_pm": "12:44",
-      "time_out_pm": "18:01"
+      "morning_in": "07:30",
+      "morning_out": "12:43",
+      "afternoon_in": "12:44",
+      "afternoon_out": "18:01",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "07:46",
-      "time_out_am": "12:39",
-      "time_in_pm": "12:41",
-      "time_out_pm": "17:40"
+      "morning_in": "07:40",
+      "morning_out": "12:39",
+      "afternoon_in": "12:41",
+      "afternoon_out": "17:40",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "07:50",
-      "time_out_am": "12:48",
-      "time_in_pm": "12:49",
-      "time_out_pm": "19:16"
+      "morning_in": "07:50",
+      "morning_out": "12:48",
+      "afternoon_in": "12:49",
+      "afternoon_out": "19:16",
+      "overtime_in": "19:16",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "07:51",
-      "time_out_am": "12:45",
-      "time_in_pm": "12:46",
-      "time_out_pm": "17:35"
+      "morning_in": "07:51",
+      "morning_out": "12:45",
+      "afternoon_in": "12:46",
+      "afternoon_out": "17:35",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "8",
-      "time_in_am": "07:50",
-      "time_out_am": "12:36",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "07:50",
+      "morning_out": "12:36",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "10",
-      "time_in_am": "07:40",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "07:40",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -142,50 +170,62 @@
     "name": "CABUGA, ROGELIO",
     "department": "COE",
     "payroll_type": "MONTHLY",
-    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
   },
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "07:41",
-      "time_out_am": "12:43",
-      "time_in_pm": "12:44",
-      "time_out_pm": "18:01"
+      "morning_in": "07:41",
+      "morning_out": "12:43",
+      "afternoon_in": "12:44",
+      "afternoon_out": "18:01",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "07:45",
-      "time_out_am": "12:40",
-      "time_in_pm": "12:40",
-      "time_out_pm": "17:40"
+      "morning_in": "07:45",
+      "morning_out": "12:40",
+      "afternoon_in": "12:40",
+      "afternoon_out": "17:40",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "07:50",
-      "time_out_am": "12:48",
-      "time_in_pm": "12:49",
-      "time_out_pm": "19:15"
+      "morning_in": "07:50",
+      "morning_out": "12:48",
+      "afternoon_in": "12:49",
+      "afternoon_out": "19:15",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "07:51",
-      "time_out_am": "12:45",
-      "time_in_pm": "12:46",
-      "time_out_pm": "17:34"
+      "morning_in": "07:51",
+      "morning_out": "12:45",
+      "afternoon_in": "12:46",
+      "afternoon_out": "17:34",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "8",
-      "time_in_am": "07:50",
-      "time_out_am": "12:37",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "07:50",
+      "morning_out": "12:37",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "10",
-      "time_in_am": "07:39",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "07:39",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -197,50 +237,62 @@
     "name": "CAPALAC, CAMILLE",
     "department": "COC",
     "payroll_type": "MONTHLY",
-    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
   },
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "08:06",
-      "time_out_am": "13:01",
-      "time_in_pm": "13:02",
-      "time_out_pm": "17:30"
+      "morning_in": "08:06",
+      "morning_out": "13:01",
+      "afternoon_in": "13:02",
+      "afternoon_out": "17:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "08:26",
-      "time_out_am": "12:34",
-      "time_in_pm": "12:35",
-      "time_out_pm": "17:37"
+      "morning_in": "08:26",
+      "morning_out": "12:34",
+      "afternoon_in": "12:35",
+      "afternoon_out": "17:37",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "08:18",
-      "time_out_am": "12:49",
-      "time_in_pm": "12:50",
-      "time_out_pm": "17:24"
+      "morning_in": "08:18",
+      "morning_out": "12:49",
+      "afternoon_in": "12:50",
+      "afternoon_out": "17:24",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "11:26",
-      "time_out_am": "12:21",
-      "time_in_pm": "12:23",
-      "time_out_pm": "17:33"
+      "morning_in": "11:26",
+      "morning_out": "12:21",
+      "afternoon_in": "12:23",
+      "afternoon_out": "17:33",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "8",
-      "time_in_am": "10:06",
-      "time_out_am": "12:23",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "10:06",
+      "morning_out": "12:23",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "9",
-      "time_in_am": "08:28",
-      "time_out_am": "12:36",
-      "time_in_pm": "12:37",
-      "time_out_pm": "16:28"
+      "morning_in": "08:28",
+      "morning_out": "12:36",
+      "afternoon_in": "12:37",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": "16:28"
     }
   ]
 }

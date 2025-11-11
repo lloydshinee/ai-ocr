@@ -10,24 +10,30 @@
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "1:00",
-      "time_out_pm": "5:30"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "1:00",
+      "afternoon_out": "5:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "4",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "5:30",
-      "time_out_pm": "8:30"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "5:30",
+      "afternoon_out": "8:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "3:00",
-      "time_out_pm": "8:00"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "3:00",
+      "afternoon_out": "8:40",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -39,36 +45,44 @@
     "name": "MALUYA, MELODY",
     "department": "CCS",
     "payroll_type": "HOURLY",
-    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
   },
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "08:20",
-      "time_out_am": "12:00",
-      "time_in_pm": "13:01",
-      "time_out_pm": "17:30"
+      "morning_in": "08:20",
+      "morning_out": "13:00",
+      "afternoon_in": "13:01",
+      "afternoon_out": "17:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "09:30",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": "17:35"
+      "morning_in": "09:30",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "17:35",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "12:48",
-      "time_out_pm": "17:19"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "12:48",
+      "afternoon_out": "17:19",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "11:28",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": "17:48"
+      "morning_in": "11:28",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "17:48",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -85,24 +99,30 @@
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "5:30",
-      "time_out_pm": "8:30"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "5:30",
+      "afternoon_out": "8:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "9:30",
-      "time_out_pm": "7:30"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "3:30",
+      "afternoon_out": "7:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "3:00",
-      "time_out_pm": "8:00"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "3:00",
+      "afternoon_out": "8:00",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -114,36 +134,44 @@
     "name": "MALIK, SAHAWI",
     "department": "CCS",
     "payroll_type": "HOURLY",
-    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
   },
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "08:20",
-      "time_out_am": "13:00",
-      "time_in_pm": "13:01",
-      "time_out_pm": "17:30"
+      "morning_in": "08:20",
+      "morning_out": "13:00",
+      "afternoon_in": "13:01",
+      "afternoon_out": "17:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "09:30",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": "17:35"
+      "morning_in": "09:30",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "17:35",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "12:48",
-      "time_out_pm": "17:19"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "12:48",
+      "afternoon_out": "17:19",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "11:28",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": "17:48"
+      "morning_in": "11:28",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "17:48",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
@@ -155,36 +183,44 @@
     "name": "GENOVIA, CHARMAYNE",
     "department": "CCS",
     "payroll_type": "HOURLY",
-    "period": "OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
+    "period": "FOR THE MONTH OF OCT. 11-25, 2025 AND OCT. 26-NOV. 10, 2025"
   },
   "attendance_records": [
     {
       "date": "3",
-      "time_in_am": "08:21",
-      "time_out_am": "13:00",
-      "time_in_pm": "13:01",
-      "time_out_pm": "17:30"
+      "morning_in": "08:21",
+      "morning_out": "13:00",
+      "afternoon_in": "13:01",
+      "afternoon_out": "17:30",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "5",
-      "time_in_am": "09:30",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": "17:35"
+      "morning_in": "09:30",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "17:35",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "6",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "12:48",
-      "time_out_pm": "17:19"
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "12:48",
+      "afternoon_out": "20:19",
+      "overtime_in": "",
+      "overtime_out": ""
     },
     {
       "date": "7",
-      "time_in_am": "11:28",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": "17:41"
+      "morning_in": "11:28",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "18:47",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }

@@ -75,19 +75,19 @@ Return the output strictly in valid JSON format with the following structure:
   "attendance_records": [
     {
       "date": "",
-      "time_in_am": "",
-      "time_out_am": "",
-      "time_in_pm": "",
-      "time_out_pm": ""
+      "morning_in": "",
+      "morning_out": "",
+      "afternoon_in": "",
+      "afternoon_out": "",
+      "overtime_in": "",
+      "overtime_out": ""
     }
   ]
 }
 
 Rules:
 - Do NOT include any entries that have completely empty time fields.
-- Exclude the "other_fields" object entirely.
-- The "date" field should contain the day number (e.g., "13") or full date if readable.
-- Remove any "day" field entirely — only use "date".
+- In and Out values must valid format HH:MM format (24-hour clock).
 - Keep JSON clean and properly formatted (no markdown, no explanations).
 - Preserve exact text values from the image.
 - All missing values should be empty strings.
